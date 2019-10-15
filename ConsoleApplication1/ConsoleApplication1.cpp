@@ -8,6 +8,7 @@ int main()
     std::cout << "Hello World!\n";
 	std::cout << "git" << std::endl;
 	std::cout << "salut" << std::endl;
+	std::cout <<"tom"<<std::ednl;
 }
 
 // Exécuter le programme : Ctrl+F5 ou menu Déboguer > Exécuter sans débogage
